@@ -19,7 +19,7 @@ Los documentos asociados a la ejecución de este laboratorio son:
 | Archivo | Descripción |
 | :--- | :--- |
 | [LAB10_ZYBO_Peripherals.pdf](https://github.com/IEE2463-SEP/LAB10-Peripherals-Zybo-Booster/blob/main/LAB10_ZYBO_Peripherals.pdf) | Contine la guía de desarrollo asociada a este laboratorio. |
-| [LAB10_ZYBO_Peripherals.rar](https://github.com/IEE2463-SEP/LAB10-Peripherals-Zybo-Booster/blob/main/Proyecto_Base_Booster.rar) | Contine el projecto en vivado desarrollado en el laboratorio |
+| [LAB10_ZYBO_Peripherals.zip](https://github.com/IEE2463-SEP/LAB10-Peripherals-Zybo-Booster/blob/main/Proyecto_Base_Booster.zip) | Contine el projecto en vivado desarrollado en el laboratorio |
 
 ---
 
